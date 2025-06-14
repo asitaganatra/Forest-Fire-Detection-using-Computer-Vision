@@ -64,3 +64,5 @@ You can use `forest.ipynb` to:
 
 **Asita Ganatra**  
 GitHub: [@asitaganatra](https://github.com/asitaganatra)
+
+#Application Link: https://forest-fire-detection-using-computer-vision-dvats959eynkbeymrw.streamlit.app/
