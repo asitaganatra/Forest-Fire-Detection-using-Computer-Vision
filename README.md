@@ -64,7 +64,3 @@ You can use `forest.ipynb` to:
 
 **Asita Ganatra**  
 GitHub: [@asitaganatra](https://github.com/asitaganatra)
-
-📜 License
-
-This project is released under the [MIT License](LICENSE).
